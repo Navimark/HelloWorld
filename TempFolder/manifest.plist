@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://192.168.0.54:8080/phms/resource/ios/AnyCheckMobile_ent_dis.ipa</string>
+					<string>https://app.anycheck.com.cn/ios/AnyCheckMobile_ent_dis_1.0.0.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
